@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> <img width="25px" src="https://gamex-template.vercel.app/assets/images/logo/logo.png"/>
   Gamex - eSports Template Free 
 </h1>
 
