@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Html 5
 - Css
-- Boostrap
+- Bootstrap
 - Swiper
 - Lightbox
 - jQuery
